@@ -1,5 +1,5 @@
 import './App.css';
-import { Grommet, Box } from 'grommet';
+import { Grommet } from 'grommet';
 
 const theme = {
   global: {

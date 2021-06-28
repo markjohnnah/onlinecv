@@ -36,8 +36,8 @@ export const ResponsiveHeader = () => (
             <Box justify="end" direction="row" gap="medium">
               <Anchor href="https://www.switchmaven.com/" label="Employer Site" />
               <Anchor
-                href="https://github.com/markjohnnah"
-                label="Linkden Account"
+                href="https://www.linkedin.com/in/mark-johnnah-01099043/"
+                label="Linkedin Account"
               />
             </Box>
           )

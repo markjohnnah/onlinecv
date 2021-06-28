@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { Grommet } from 'grommet';
+import { Grommet, Box } from 'grommet';
 
 const theme = {
   global: {
